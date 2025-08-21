@@ -13,7 +13,7 @@ Microsoft Learnにて公式に修了認定を受けました。
 
 ![認定証]()
 
-▶ [Microsoft Learnコースページを見る](https://learn.microsoft.com/ja-jp/training/paths/improve-productivity-ai/)
+▶ [Microsoft Learnコースページを見る](https://aiskillsnavigator.microsoft.com/ja-jp)
 
 ---
 

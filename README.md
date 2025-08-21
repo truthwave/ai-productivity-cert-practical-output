@@ -11,7 +11,7 @@
 
 Microsoft Learnにて公式に修了認定を受けました。
 
-![認定証]()
+![認定証](https://github.com/TomoProgrammingDayori/ai-productivity-cert-practical-output/blob/main/%E7%94%9F%E6%88%90AI%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%A6%E7%94%9F%E7%94%A3%E6%80%A7%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B.png)
 
 ▶ [Microsoft Learnコースページを見る](https://aiskillsnavigator.microsoft.com/ja-jp)
 

@@ -52,11 +52,13 @@ Microsoft Learnにて公式に修了認定を受けました。
 
 ---
 
-## 🔗 作者・連絡先
+## 🧑‍💻 作者
 
-- GitHub: [TomoProgrammingDayori](https://github.com/TomoProgrammingDayori)
-- クラウドワークス：[プロフィール](https://crowdworks.jp/public/employees/6067887)
-- X: [@tomopro_dayori](https://x.com/tomopro_dayori)
+[ともプログラム便り](https://github.com/TomoProgrammingDayori)
+AIツールやポートフォリオ開発に関する情報も発信中。
+
+## お気軽にご連絡ください
+[📩 ご相談・お見積もりはこちら](mailto:realmadrid71214591@gmail.com)
 
 ---
 

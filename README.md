@@ -55,7 +55,7 @@ Microsoft Learnにて公式に修了認定を受けました。
 
 ## 🧑‍💻 作者
 
-[ともプログラム便り](https://github.com/TomoProgrammingDayori)
+[ともAI便り](https://github.com/TomoAIDayori)
 AIツールやポートフォリオ開発に関する情報も発信中。
 
 ## お気軽にご連絡ください

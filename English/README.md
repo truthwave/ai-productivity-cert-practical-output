@@ -1,5 +1,5 @@
 # Microsoft Certified “Boosting Productivity with Generative AI” | Application Notes
-<img width="541" height="305" alt="スクリーンショット 2025-08-29 115255" src="https://github.com/user-attachments/assets/5164c62d-99a9-4152-81d2-69d041c5a245" />
+
 
 This repository was created to document and share how I apply the knowledge gained from Microsoft's official Generative AI course, “Boosting Productivity with Generative AI,” at a practical level.
 

@@ -54,7 +54,7 @@ Officially completed and certified via Microsoft Learn.
 
 ## 🧑‍💻 Creator
 
-[Tomo AI Newsletter](https://github.com/TomoAIDayori)
+[Tomo AI Dayori](https://github.com/TomoAIDayori)
 Also shares information about AI tools and portfolio development.
 
 ## Feel Free to Contact Us

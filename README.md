@@ -55,7 +55,7 @@ Microsoft Learnにて公式に修了認定を受けました。
 
 ## 🧑‍💻 作者
 
-[ともAI便り](https://github.com/TomoAIDayori)
+**[Truth Wave ― 真理の波](https://github.com/truthwave)**  
 AIツールやポートフォリオ開発に関する情報も発信中。
 
 ## お気軽にご連絡ください

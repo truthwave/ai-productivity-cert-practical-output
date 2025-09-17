@@ -29,7 +29,7 @@ Microsoft Learnにて公式に修了認定を受けました。
 
 ## 🧠 実践アウトプット（GPTs）
 
-### 1. [議事録3行要約 & ToDo抽出アシスタント](https://chatgpt.com/g/g-68a5cc11df888191b7b07a9da688b741-yi-shi-lu-3xing-yao-yue-todochou-chu-asisutanto)
+### 1. 議事録3行要約 & ToDo抽出アシスタント
 
 > 会議後すぐに使える要約AI。3行で要点を整理し、SlackやNotionに即投稿可能。  
 > 構造化形式・ToDo抽出・カジュアル文体など出力を選択可能。

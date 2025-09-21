@@ -38,7 +38,7 @@ Microsoft Learnにて公式に修了認定を受けました。
 
 ---
 
-### 2. [社内FAQ即答アシスタント GPT](https://chatgpt.com/g/g-68a5cf5fc62c81919d198dfa6f0ef496-she-nei-faqji-da-asisutanto-gpt)
+### 2. 社内FAQ即答アシスタント GPT
 
 > 「この件、誰に聞けばいい？」を即解決。  
 > 経費・勤怠・ツールの使い方など社内問い合わせを自動化するQ&A特化AI。

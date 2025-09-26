@@ -54,14 +54,4 @@ Officially completed and certified via Microsoft Learn.
 
 ---
 
-## 🧑‍💻 Creator
-
-[Tomo AI Dayori](https://github.com/TomoAIDayori)
-Also shares information about AI tools and portfolio development.
-
-## Feel Free to Contact Us
-[📩 Inquiries & Quotes](mailto:realmadrid71214591@gmail.com)
-
----
-
 > **“Qualifications are just stepping stones. Your creations become your resume.”**

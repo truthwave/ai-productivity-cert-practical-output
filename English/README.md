@@ -1,10 +1,9 @@
 # Microsoft Certified “Boosting Productivity with Generative AI” | Application Notes
 
+> A record of transforming learning into **actionable mechanisms**.
 
-
-This repository was created to document and share how I apply the knowledge gained from Microsoft's official Generative AI course, “Boosting Productivity with Generative AI,” at a practical level.
-
-> ✅ Certification Proof + 💡 Practical Tool Output = Compelling Skill Demonstration
+Certification is the **starting point**. Value is proven by **what you create**.
+Here, I list only the **outputs** I applied to real work after completing the course.
 
 ---
 
@@ -12,46 +11,48 @@ This repository was created to document and share how I apply the knowledge gain
 
 Officially completed and certified via Microsoft Learn.
 
-<img width="931" height="727" alt="Boosting Productivity with Generative AI" src="https://github.com/user-attachments/assets/f3350dbc-2491-4946-af0b-9e0959b85ba2" />
+<img width="931" height="727" alt="Boost productivity using generative AI" src="https://github.com/user-attachments/assets/f3350dbc-2491-4946-af0b-9e0959b85ba2" />
 
 
 ▶ [View the Microsoft Learn course page](https://aiskillsnavigator.microsoft.com/ja-jp)
 
 ---
 
-## ✍️ Learning Content Summary
+## 🚀 Practical Output
 
-- How generative AI like ChatGPT works and key considerations for use
-- Effective prompt design techniques
-- Integration methods for work (automation, process improvement)
-- Security, privacy, and ethical considerations
+1) Meeting Notes Made Easy with GPT
 
----
-
-## 🧠 Practical Output (GPTs)
-
-### 1. [Meeting Summary & ToDo Extraction Assistant](https://chatgpt.com/g/g-68a5cc11df888191b7b07a9da688b741-yi-shi-lu-3xing-yao-yue-todochou-chu-asisutanto)
-
-> An AI summary tool ready for immediate use after meetings. Organizes key points in 3 lines, instantly postable to Slack or Notion.  
-> Choose output styles: structured format, task extraction, or casual tone.
-
-> 🔍 Details & Development Background: [View GitHub Repository](https://github.com/TomoProgrammingDayori/meeting-minutes-helper)
+Immediately after meetings, share key points in **3 lines** → instantly shared to Slack/Notion. Supports task extraction, structuring, and style switching.
+⏱️ Meeting notes creation: 30 minutes → 3 minutes
+🔗 [Repository](https://github.com/truthwave/meeting-minutes-helper)
 
 ---
 
-### 2. [Instant Internal FAQ Assistant GPT](https://chatgpt.com/g/g-68a5cf5fc62c81919d198dfa6f0ef496-she-nei-faqji-da-asisutanto-gpt)
+2) Instant Internal FAQ Assistant GPT
 
-> Instantly solve “Who should I ask about this?”  
-> An AI specialized in Q&A that automates internal inquiries about expenses, attendance, tool usage, and more.  
->  
-> 🔍 Details & Prompt Design: [View GitHub Repository](https://github.com/TomoProgrammingDayori/faq-assistant-gpt)  
----
+Eliminates the “Who should I ask?” question. An AI specialized in Q&A for self-service solutions to expense, attendance, and tool procedure queries.
+📉 Internal inquiries: 20/week → Approx. 50% reduction (estimate)
+🔗 [Repository](https://github.com/truthwave/faq-assistant-gpt)
 
-## 📌 Planned Additions (In Development)
-
-- AI-powered invoice checking tool
-- Mechanism for sharing prompt management and improvement logs
+> The goal is “autonomy.” Humans focus on judgment; repetition goes to AI.
 
 ---
 
-> **“Qualifications are just stepping stones. Your creations become your resume.”**
+## 🧭 Future Enhancements
+
+- Automated invoice verification / discrepancy flagging
+- Shared platform for prompt improvement logs and reusable templates
+
+---
+
+## 🧑‍💻 Creator
+
+**[Truth Wave ― 真理の波](https://github.com/truthwave)**  
+Also sharing info on AI tools and portfolio development.
+
+## Feel free to reach out
+[📩 Contact us for consultations/quotes](mailto:realmadrid71214591@gmail.com)
+
+---
+
+> **Your resume is your work**. Learning is brief; creating endures.

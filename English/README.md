@@ -24,7 +24,8 @@ Officially completed and certified via Microsoft Learn.
 
 Immediately after meetings, share key points in **3 lines** → instantly shared to Slack/Notion. Supports task extraction, structuring, and style switching.
 ⏱️ Meeting notes creation: 30 minutes → 3 minutes
-🔗 [Repository](https://github.com/truthwave/meeting-minutes-helper)
+🔗 [Repository](https://github.com/truthwave/meeting-minutes-helper/tree/main/English
+)
 
 ---
 
@@ -32,7 +33,8 @@ Immediately after meetings, share key points in **3 lines** → instantly shared
 
 Eliminates the “Who should I ask?” question. An AI specialized in Q&A for self-service solutions to expense, attendance, and tool procedure queries.
 📉 Internal inquiries: 20/week → Approx. 50% reduction (estimate)
-🔗 [Repository](https://github.com/truthwave/faq-assistant-gpt)
+🔗 [Repository](https://github.com/truthwave/faq-assistant-gpt/tree/main/English
+)
 
 > The goal is “autonomy.” Humans focus on judgment; repetition goes to AI.
 
